@@ -15,4 +15,4 @@ and the criminal list was given as criminals.csv.
 Pre-processing Enron data
 
 enron_emails.py was used to Filter emails according to the email addresses of the employees.
-The raw number of emails is 517407 and the number of emails after pre-processing is 45842.
+The raw number of emails is 517407 and the number of emails after pre-processing is 47468.
