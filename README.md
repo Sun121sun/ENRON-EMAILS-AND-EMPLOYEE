@@ -18,7 +18,7 @@ Position : *input/criminals.csv*
 
 We sum up the name list of criminals from the website *http://usatoday30.usatoday.com/money/industries/energy/2005-12-28-enron-participants_x.htm*. 
 
-##PRE-PROCESSING THE DATA SET
+## PRE-PROCESSING THE DATA SET
 
 Position: *enron_emails.py* 
 
