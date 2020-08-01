@@ -5,8 +5,9 @@
 
 ## THE ENRON DATA SET
 
-The size of raw data is too large to be allowed uploading. Therefore, we can get the data from the following address.
-Brian Ray had processed the data integration into a csv file and you could download the file enron_05_17_2015_with_labels_v2.csv-enron_05_17_2015_with_labels_v2 on the website https://data.world/brianray/enron-email-dataset 
+The size of raw data is too large to be allowed uploading and it can be found on the website https://www.cs.cmu.edu/~./enron/.
+
+Here we thank Brian Ray for sharing the preprocessed code on the websit:https://github.com/brianray/data.world-scripts/blob/master/enron_email_script.ipynb. This code can change the raw data into a csv file. If you skip this step, you could download the processed data enron_05_17_2015_with_labels_v2.csv-enron_05_17_2015_with_labels_v2 on the website https://data.world/brianray/enron-email-dataset 
 
 ## THE NAMELIST OF EMPLOYEE
 
